@@ -8,7 +8,8 @@ Firstly, install PulseEffects on your Linux computer by following its' author [h
 
  1. Manually: download the repo's zip by clicking the `Clone or Download` button and choose `Download ZIP`. Extract the ZIP and use this command: `mv <path to bamboo.json file> ~/.config/PulseEffects/output/bamboo.json`.
  2. Automatically: execute the following command: `available soon`. This command requires your computer has curl installed.
- Then open PulseEffects, click on `Presets` on the right top, then choose `Apply` button in the `bamboo` selection.
+
+Then open PulseEffects, click on `Presets` on the right top, choose `Apply` button in the `bamboo` selection.
  ## Notes
 1. Please note that BambooSound is not guaranteed to satisfying the audiophiles.
 2. BambooSound is made by a regular user like you, the preset has been tuned a lot which follows and performs than the B&O's country preset on Windows.
