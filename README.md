@@ -21,15 +21,13 @@ Finally, open PulseEffects, click on `Presets` on the right top, choose `Apply` 
 
 1. Please note that BambooSound is not guaranteed to satisfying the audiophiles.
 
-2. BambooSound is made by a regular user like you, the preset has been tuned a lot which follows and performs than the B&O's country preset on Windows.
+2. If this readme file having grammatical errors, please help the author by clone the git, fix the grammar and make the pull request. Thank you.
 
-3. If this readme file having grammatical errors, please help the author by clone the git, fix the grammar and make the pull request. Thank you.
+3. If you created your own preset and it sound better, feel free to make a pull request as well.
 
-4. If you created your own preset and it sound better, feel free to make a pull request as well.
+4. Sometimes the audio is a little bit quiet than usual, you can loud it by set the system volume to 105-110%.
 
-5. Sometimes the audio is a little bit quiet than usual, you can loud it by set the system volume to 105-110%.
-
-6. Please don't open PulseEffects' issue in this repo.
+5. Please don't open PulseEffects' issue in this repo.
 
 ## Credits
 
