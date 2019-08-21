@@ -7,7 +7,7 @@ Preset for processing input (microphones) with be available soon.
 
 ## Why use BambooSound?
 
-BambooSound for those who love listening to music and want their music sound better and less awful, or they was just moving to Linux and don't know how to set the PulseEffects' EQ process the audio greatly.
+BambooSound for those who love listening to music (or gaming as well) and want their audio sound better and less awful, or they was just moving to Linux and don't know how to set the PulseEffects' EQ process the audio greatly.
 
 ## How to use
 
