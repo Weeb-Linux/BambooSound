@@ -1,7 +1,7 @@
 
 ## What's BambooSound?
 
-BambooSound is a preset for processing audio output on PulseEffects, which focus music and gaming.
+BambooSound is a preset for processing audio output on PulseEffects, which focus on music and gaming.
 
 Preset for processing input (microphones) with be available soon.
 
