@@ -11,7 +11,7 @@ BambooSound for those who love listening to music and want their music sound bet
 
 ## How to use
 
-Firstly, install PulseEffects on your Linux computer by following its' author [here](https://github.com/wwmm/pulseeffects/#installation).  Then run the following command:
+Firstly, install PulseEffects on your Linux computer by following the [instruction](https://github.com/wwmm/pulseeffects/#installation).  Then run the following command:
 
 `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/master/bamboo.json`
 
