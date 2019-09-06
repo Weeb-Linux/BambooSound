@@ -13,7 +13,7 @@ BambooSound for those who love listening to music (or gaming as well) and want t
 
 Firstly, install PulseEffects on your Linux computer by following the [instruction](https://github.com/wwmm/pulseeffects/#installation).  Then run the following command:
 
-`wget -P ~/.config/PulseEffects/output/ https://bit.ly/30jLjMk`
+`wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/master/bamboo.json`
 
 Finally, open PulseEffects, click on `Presets` on the right top, choose `Apply` button in the `bamboo` selection.
 
