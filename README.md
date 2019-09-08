@@ -22,11 +22,11 @@ According from the author's experience, BambooSound work really well with the fo
 
 ###### Musics
 
-'[NIVIRO - You]([https://www.youtube.com/watch?v=2Nv5juZKhKo](https://www.youtube.com/watch?v=2Nv5juZKhKo)
+'[NIVIRO - You](https://www.youtube.com/watch?v=2Nv5juZKhKo](https://www.youtube.com/watch?v=2Nv5juZKhKo)
 
 '[IZECOLD - Close (feat. Molly Ann) [Brooks Remix]](https://www.youtube.com/watch?v=bzehQ60b3XI)
 
-'[Tiësto & KSHMR ft. Talay Riley - Harder](https://www.youtube.com/watch?v=f_ecaxhGkwM](https://www.youtube.com/watch?v=f_ecaxhGkwM)
+'[Tiësto & KSHMR ft. Talay Riley - Harder](https://www.youtube.com/watch?v=f_ecaxhGkwMs)
 
 '[R3HAB x Mike Williams - Lullaby](https://www.youtube.com/watch?v=9flXyzcSfT4)
 
