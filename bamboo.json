@@ -105,8 +105,8 @@
             "state": "true",
             "mode": "IIR",
             "num-bands": "10",
-            "input-gain": "0",
-            "output-gain": "-1.3",
+            "input-gain": "0.10000000000000001",
+            "output-gain": "-1.2",
             "split-channels": "false",
             "left": {
                 "band0": {
@@ -185,7 +185,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "-16.600000000000001",
+                    "gain": "-15.6",
                     "frequency": "3770.8118433037489",
                     "q": "4.3600000000000003"
                 },
@@ -205,7 +205,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "1.3",
+                    "gain": "2.2000000000000002",
                     "frequency": "15011.872336272731",
                     "q": "4.3600000000000003"
                 }
@@ -287,7 +287,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "-16.600000000000001",
+                    "gain": "-15.6",
                     "frequency": "3770.8118433037489",
                     "q": "4.3600000000000003"
                 },
@@ -307,7 +307,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "1.3",
+                    "gain": "2.2000000000000002",
                     "frequency": "15011.872336272731",
                     "q": "4.3600000000000003"
                 }
@@ -349,8 +349,8 @@
         "limiter": {
             "state": "true",
             "input-gain": "0",
-            "limit": "-6",
-            "lookahead": "5",
+            "limit": "-5",
+            "lookahead": "4.5000000000000018",
             "release": "50",
             "asc": "false",
             "asc-level": "0.5",
@@ -534,8 +534,8 @@
         "crystalizer": {
             "state": "true",
             "aggressive": "false",
-            "input-gain": "-1",
-            "output-gain": "-1",
+            "input-gain": "0",
+            "output-gain": "-2",
             "band0": {
                 "intensity": "12",
                 "mute": "false",
@@ -604,6 +604,7 @@
         },
         "autogain": {
             "state": "false",
+            "detect-silence": "false",
             "input-gain": "0",
             "output-gain": "0",
             "target": "-23",
