@@ -20,41 +20,6 @@ Finally, open PulseEffects, click on `Presets` on the right top, choose `Apply` 
 
 According from the author's experience, BambooSound work really well with the following musics and games (with any headphone and speaker that doesn't need an external EQ):
 
-###### Musics
-
-'[NIVIRO - You](https://www.youtube.com/watch?v=2Nv5juZKhKo)
-
-'[IZECOLD - Close (feat. Molly Ann) [Brooks Remix]](https://www.youtube.com/watch?v=bzehQ60b3XI)
-
-'[Tiësto & KSHMR ft. Talay Riley - Harder](https://www.youtube.com/watch?v=f_ecaxhGkwMs)
-
-'[R3HAB x Mike Williams - Lullaby](https://www.youtube.com/watch?v=9flXyzcSfT4)
-
-'[Mike Williams x Mesto - Wait Another Day](https://www.youtube.com/watch?v=n18g4bRJDCY)
-
-^[Ehrling - Dance With Me](https://www.youtube.com/watch?v=FuAgLHJnc-Y)
-
-'[Ronald Jenkees - Fifteen Fifty](https://www.youtube.com/watch?v=k5LfI-W0-ao)
-
-'[Syn Cole - Feel Good](https://www.youtube.com/watch?v=q1ULJ92aldE)
-
-^[Different Heaven - Safe And Sound](https://www.youtube.com/watch?v=13ARO0HDZsQ)
-
-###### Games
-
-'Half-Life series: 1 + 2 (and minigames)
-
-Counter-Strike Series: '1.6, 'Condition Zero, 'Source, ^Global Offensive
-'Left 4 Dead series: 1 + 2
-
-'Insurgency
-
-'Terraria
-
-': Sounds perfectly, no need to fix.
-
-^: Acceptable, but still need to fix, mostly about bass cracking.
-
 ## Notes
 
 1. Please note that BambooSound is not guaranteed to satisfying the audiophiles.
