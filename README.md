@@ -16,10 +16,6 @@ Firstly, install PulseEffects on your Linux computer by following the [instructi
 
 Finally, open PulseEffects, click on `Presets` on the right top, choose `Apply` button in the `bamboo` selection.
 
-## Verified musics and games
-
-According from the author's experience, BambooSound work really well with the following musics and games (with any headphone and speaker that doesn't need an external EQ):
-
 ## Notes
 
 1. Please note that BambooSound is not guaranteed to satisfying the audiophiles.
