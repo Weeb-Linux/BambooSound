@@ -24,7 +24,7 @@ Finally, open PulseEffects, click on `Presets` on the right top, choose `Apply` 
 
 3. If you had created your own preset and performs better, feel free to make a pull request.
 
-4. Sometimes the audio is a little bit quieter than usual, you can loud it up by set the system's maximum volume to 105-110%, but this is not recommended.
+4. ~~Sometimes the audio is a little bit quieter than usual, you can loud it up by set the system's maximum volume to 105-110%, but this is not recommended.~~ Since the v1.3.1 update, please raise your maximum volume to 110-125%.
 
 5. Please don't open PulseEffects' issue in this repo.
 
