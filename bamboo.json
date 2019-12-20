@@ -348,7 +348,7 @@
         },
         "limiter": {
             "state": "true",
-            "input-gain": "-3",
+            "input-gain": "-8",
             "limit": "0",
             "lookahead": "5",
             "release": "50",
@@ -537,47 +537,47 @@
             "input-gain": "0",
             "output-gain": "0",
             "band0": {
-                "intensity": "1",
+                "intensity": "2",
                 "mute": "false",
                 "bypass": "false"
             },
             "band1": {
-                "intensity": "1",
+                "intensity": "2",
                 "mute": "false",
                 "bypass": "false"
             },
             "band2": {
-                "intensity": "1",
+                "intensity": "2",
                 "mute": "false",
                 "bypass": "false"
             },
             "band3": {
-                "intensity": "1",
+                "intensity": "2",
                 "mute": "false",
                 "bypass": "false"
             },
             "band4": {
-                "intensity": "1",
+                "intensity": "2",
                 "mute": "false",
                 "bypass": "false"
             },
             "band5": {
-                "intensity": "1",
+                "intensity": "2",
                 "mute": "false",
                 "bypass": "false"
             },
             "band6": {
-                "intensity": "1",
+                "intensity": "0",
                 "mute": "false",
                 "bypass": "false"
             },
             "band7": {
-                "intensity": "1",
+                "intensity": "-2",
                 "mute": "false",
                 "bypass": "false"
             },
             "band8": {
-                "intensity": "1",
+                "intensity": "-4",
                 "mute": "false",
                 "bypass": "false"
             },
