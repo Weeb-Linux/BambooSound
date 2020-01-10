@@ -8,15 +8,15 @@ A preset for processing audio input (i.e. microphones) will be available soon.
 
 BambooSound is for those who love listening to music and gaming, and want their audio to sound better. Those who just moved to Linux and don't know how to tweak the PulseEffects' EQ process also benefit greatly from this preset.
 
-## Usage
+## Installation and usage
 
-+ 1. Install PulseEffects on your Linux computer by following the [instructions](https://github.com/wwmm/pulseeffects/#installation).
+1. Install PulseEffects on your Linux computer by following the [instructions](https://github.com/wwmm/pulseeffects/#installation) provided by the authors.
 
-+ 2. Run the following command:
+2. Run the following command:
 
-`wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/master/bamboo.json`
+  `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/master/bamboo.json`
 
-+ 3. Open PulseEffects, click on `Presets` in the top right of the window and choose `Apply` while hovering over `bamboo`.
+3. Open PulseEffects, click on `Presets` in the top right of the window and choose `Apply` while hovering over `bamboo`.
 
 ## Notes
 
@@ -30,7 +30,7 @@ BambooSound is for those who love listening to music and gaming, and want their 
 
 5. Please don't open PulseEffects issues in this repo.
 
-6. BambooSound may get updateted every 2-4 weeks. To update, simply run the installation command above.
+6. BambooSound may get updated every 2-4 weeks. To update, simply run the installation command above or add it as an entry to your crontab and/or equivalent.
 
 ## Credits
 
