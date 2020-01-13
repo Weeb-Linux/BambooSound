@@ -15,9 +15,11 @@ BambooSound is for those who love listening to music and gaming, and want their 
 2. Run one of the following commands:
 
   Stable version: v1.3.1 (master branch)
+  
   `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/master/bamboo.json`
   
   Beta version: v1.4rc1 (beta branch)
+  
   `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/beta/bamboo.json`
 
 3. Open PulseEffects, click on `Presets` in the top right of the window and choose `Apply` while hovering over `bamboo`.
