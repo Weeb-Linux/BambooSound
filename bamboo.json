@@ -28,8 +28,8 @@
         "blacklist": "",
         "plugins_order": [
             "limiter",
-            "crystalizer",
             "equalizer",
+            "crystalizer",
             "bass_enhancer",
             "autogain",
             "gate",
@@ -49,7 +49,7 @@
             "pitch"
         ],
         "bass_enhancer": {
-            "state": "true",
+            "state": "false",
             "input-gain": "0",
             "output-gain": "-1",
             "amount": "2",
@@ -537,67 +537,67 @@
             "input-gain": "0",
             "output-gain": "0",
             "band0": {
-                "intensity": "-12",
-                "mute": "false",
-                "bypass": "false"
-            },
-            "band1": {
-                "intensity": "-10",
-                "mute": "false",
-                "bypass": "false"
-            },
-            "band2": {
-                "intensity": "-8",
-                "mute": "false",
-                "bypass": "false"
-            },
-            "band3": {
-                "intensity": "-6",
-                "mute": "false",
-                "bypass": "false"
-            },
-            "band4": {
-                "intensity": "4",
-                "mute": "false",
-                "bypass": "false"
-            },
-            "band5": {
-                "intensity": "2",
-                "mute": "false",
-                "bypass": "false"
-            },
-            "band6": {
-                "intensity": "0",
-                "mute": "false",
-                "bypass": "false"
-            },
-            "band7": {
-                "intensity": "-2",
-                "mute": "false",
-                "bypass": "false"
-            },
-            "band8": {
                 "intensity": "-4",
                 "mute": "false",
                 "bypass": "false"
             },
-            "band9": {
+            "band1": {
+                "intensity": "-3",
+                "mute": "false",
+                "bypass": "false"
+            },
+            "band2": {
                 "intensity": "-6",
                 "mute": "false",
                 "bypass": "false"
             },
-            "band10": {
+            "band3": {
+                "intensity": "-3",
+                "mute": "false",
+                "bypass": "false"
+            },
+            "band4": {
+                "intensity": "-6",
+                "mute": "false",
+                "bypass": "false"
+            },
+            "band5": {
+                "intensity": "-7",
+                "mute": "false",
+                "bypass": "false"
+            },
+            "band6": {
+                "intensity": "-9",
+                "mute": "false",
+                "bypass": "false"
+            },
+            "band7": {
                 "intensity": "-8",
                 "mute": "false",
                 "bypass": "false"
             },
+            "band8": {
+                "intensity": "-8",
+                "mute": "false",
+                "bypass": "false"
+            },
+            "band9": {
+                "intensity": "-8",
+                "mute": "false",
+                "bypass": "false"
+            },
+            "band10": {
+                "intensity": "-7",
+                "mute": "false",
+                "bypass": "false"
+            },
             "band11": {
-                "intensity": "-10",
+                "intensity": "-12",
                 "mute": "false",
                 "bypass": "false"
             },
             "band12": {
-                "intensity": "-12",
+                "intensity": "-17",
                 "mute": "false",
                 "bypass": "false"
             }
@@ -605,6 +605,7 @@
         "autogain": {
             "state": "false",
             "detect-silence": "true",
+            "use-geometric-mean": "true",
             "input-gain": "0",
             "output-gain": "0",
             "target": "-23",
