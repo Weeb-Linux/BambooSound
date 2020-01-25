@@ -18,7 +18,7 @@ BambooSound is for those who love listening to music and gaming, and want their 
   
   `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/master/bamboo.json`
   
-  Beta version: v1.4rc1 (beta branch)
+  Beta version: v1.4rc2 (beta branch)
   
   `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/beta/bamboo.json`
 
@@ -36,7 +36,7 @@ BambooSound is for those who love listening to music and gaming, and want their 
 
 5. Please don't open PulseEffects issues in this repo.
 
-6. BambooSound may get updated every 2-4 weeks. To update, simply run the installation command above or add it as an entry to your crontab and/or equivalent.
+6. BambooSound may get updated every 2-4 weeks. To update, simply run the installation command above or add it as an entry to your crontab and/or equivalent. For changelog please visit [releases history](https://github.com/Wello6143/BambooSound/releases).
 
 ## Credits
 
