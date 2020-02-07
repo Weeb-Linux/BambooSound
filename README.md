@@ -18,7 +18,7 @@ BambooSound is for those who love listening to music and gaming, and want their 
   
   `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/master/bamboo.json`
   
-  Beta version: v1.4rc2 (beta branch)
+  Beta version: v1.4rc3 (beta branch)
   
   `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Wello6143/BambooSound/beta/bamboo.json`
 
