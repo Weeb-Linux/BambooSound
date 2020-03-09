@@ -35,4 +35,4 @@ BambooSound is for those who love listening to music and gaming, and want their 
 
 ## Credits
 
-Made by [Wello](https://github.com/wello6143). Help the author by making a small [donation](https://paypal.me/wello6143).
+Made by [Wello](https://github.com/wello6143), published under a project made by Weeb/Linux team. Help us by making a small [donation](https://paypal.me/wello6143).
