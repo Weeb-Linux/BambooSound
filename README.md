@@ -27,7 +27,7 @@ BambooSound is for those who love listening to music and gaming, and want their 
 
 3. If you've created your own preset that performs better, feel free to make a pull request.
 
-4. ~~Sometimes the audio is a little bit quieter than usual, you can normalize it up by setting the system's maximum volume to 105-110%, but this is not recommended.~~ Since the v1.3.1 update, please raise your maximum volume to 110-125%.
+4. Sometimes the audio is a little bit quieter than usual, you can normalize it up by setting the system's maximum volume to 110-125%.
 
 5. Please don't open PulseEffects issues in this repo.
 
