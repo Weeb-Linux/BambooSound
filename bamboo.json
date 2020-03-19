@@ -106,7 +106,7 @@
             "mode": "IIR",
             "num-bands": "10",
             "input-gain": "0",
-            "output-gain": "-0.54000000000000004",
+            "output-gain": "0",
             "split-channels": "false",
             "left": {
                 "band0": {
@@ -348,7 +348,7 @@
         },
         "limiter": {
             "state": "true",
-            "input-gain": "-8",
+            "input-gain": "0",
             "limit": "0",
             "lookahead": "5",
             "release": "50",

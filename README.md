@@ -1,3 +1,7 @@
+## IMPORTANT!!!
+
+If you're still using version 1.0 (previously known as v1.4rc3/4). Please upgrade BambooSound to version v1.1+ immediately or not your speakers will be pernamentally damaged. Please note that lower your speakers' maximum volume to 100% from version 1.1.
+
 ## What is BambooSound?
 
 BambooSound is a preset for processing audio output for PulseEffects.
@@ -14,7 +18,7 @@ A preset for processing audio input (i.e. microphones) will be available soon.
 
 2. Run one of the following commands:
 
-  Stable version: v1.0 (master branch)
+  Stable version: v1.1 (master branch)
   
   `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Weeb-Linux/BambooSound/master/bamboo.json`
   
@@ -28,15 +32,9 @@ A preset for processing audio input (i.e. microphones) will be available soon.
 
 3. If you've created your own preset that performs better, feel free to make a pull request.
 
-4. Sometimes the audio is a little bit quieter than usual, you can normalize it up by setting the system's maximum volume to 110-125%.
+4. Please don't open PulseEffects issues in this repo.
 
-5. Please don't open PulseEffects issues in this repo.
-
-6. BambooSound may get updated every 2-4 weeks. To update, simply run the installation command above or add it as an entry to your crontab and/or equivalent. For changelog please visit [releases history](https://github.com/Weeb-Linux/BambooSound/releases).
-
-## TO-DOs
-
-* Sound is quieter than usual (Difficulty: hard).
+5. BambooSound may get updated every 2-4 weeks. To update, simply run the installation command above or add it as an entry to your crontab and/or equivalent. For changelog please visit [releases history](https://github.com/Weeb-Linux/BambooSound/releases).
 
 ## Credits
 
