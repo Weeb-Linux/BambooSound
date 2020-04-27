@@ -18,7 +18,7 @@ A preset for processing audio input (i.e. microphones) will be available soon.
 
 2. Run one of the following commands:
 
-  Stable version: v1.1 (master branch)
+  Stable version: v1.1.2 (master branch)
   
   `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Weeb-Linux/BambooSound/master/bamboo.json`
   
