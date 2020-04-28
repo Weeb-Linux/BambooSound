@@ -115,7 +115,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "6.2999999999999998",
+                    "gain": "9.4000000000000004",
                     "frequency": "29.952623149688797",
                     "q": "4.3600000000000003"
                 },
@@ -125,7 +125,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "5.7000000000000002",
+                    "gain": "1.7",
                     "frequency": "59.763340205038524",
                     "q": "4.3600000000000003"
                 },
@@ -217,7 +217,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "6.2999999999999998",
+                    "gain": "9.4000000000000004",
                     "frequency": "29.952623149688797",
                     "q": "4.3600000000000003"
                 },
@@ -227,7 +227,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "5.7000000000000002",
+                    "gain": "1.7",
                     "frequency": "59.763340205038524",
                     "q": "4.3600000000000003"
                 },
@@ -347,7 +347,7 @@
             "makeup": "0"
         },
         "limiter": {
-            "state": "true",
+            "state": "false",
             "input-gain": "0",
             "limit": "0",
             "lookahead": "5",
@@ -547,22 +547,22 @@
                 "bypass": "false"
             },
             "band2": {
-                "intensity": "-6",
+                "intensity": "-4",
                 "mute": "false",
                 "bypass": "false"
             },
             "band3": {
-                "intensity": "-3",
+                "intensity": "-8",
                 "mute": "false",
                 "bypass": "false"
             },
             "band4": {
-                "intensity": "-6",
+                "intensity": "-7",
                 "mute": "false",
                 "bypass": "false"
             },
             "band5": {
-                "intensity": "-7",
+                "intensity": "-8",
                 "mute": "false",
                 "bypass": "false"
             },
