@@ -1,6 +1,6 @@
 ## IMPORTANT!!!
 
-If you're still using version 1.0 (previously known as v1.4rc3/4). Please upgrade BambooSound to version v1.1+ immediately or not your speakers will be pernamentally damaged. Please note that lower your speakers' maximum volume to 100% from version 1.1.
+If you're still using version 1.0 (previously known as v1.4rc3/4). Please update BambooSound to version v1.1+ immediately or not your speakers could be pernamentally damaged. Make sure your volume controller's maximum value is set to 100%.
 
 ## What is BambooSound?
 
@@ -9,7 +9,7 @@ A preset for processing audio input (i.e. microphones) will be available soon.
 
 ## Features
 
-* Clear sound with better bass.
+* Clear sound with slightly bass enhanced.
 * Works great with bass-boosted headphones and high quality songs (and games too!).
 
 ## Installation and usage
