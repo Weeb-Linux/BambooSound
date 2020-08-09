@@ -13,13 +13,17 @@ BambooSound is a preset for processing audio output for PulseEffects.
 
 ## Installation and usage
 
-1. Install PulseEffects on your Linux computer by following the [instructions](https://github.com/wwmm/pulseeffects/#installation) provided by the authors.
+1. Install PulseEffects on your Linux computer by following the [instructions](https://github.com/wwmm/pulseeffects/#installation) provided by it's authors.
 
 2. Run one of the following commands:
 
   Stable version: v1.1.2 (master branch)
   
-  `wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Weeb-Linux/BambooSound/master/bamboo.json`
+  ```
+  wget -P ~/.config/PulseEffects/output/ https://raw.githubusercontent.com/Weeb-Linux/BambooSound/master/bamboo.json
+  ```
+  
+  This quick command will put BambooSound configuration file into PulseEffects' config folder in your `/home/` directory and should work normally with popular distros such as Debian-based, RHEL/RPM-based (RHEL, Fedora, (open)SUSE). May vary in another unpopular distros (untested).
   
 3. Open PulseEffects, click on `Presets` in the top right of the window and choose `Apply` while hovering over `bamboo`.
 
