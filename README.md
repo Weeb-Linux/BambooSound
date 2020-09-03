@@ -1,7 +1,3 @@
-## IMPORTANT!!!
-
-If you're still using version 1.0 (previously known as v1.4rc3/4). Please update BambooSound to version v1.1+ immediately or not your speakers could be pernamentally damaged. Make sure your volume controller's maximum value is set to 100%.
-
 ## What is BambooSound?
 
 BambooSound is a preset for processing audio output for PulseEffects.
