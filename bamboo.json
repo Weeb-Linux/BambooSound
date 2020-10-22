@@ -52,7 +52,7 @@
             "state": "false",
             "input-gain": "0",
             "output-gain": "-1",
-            "amount": "2",
+            "amount": "4",
             "harmonics": "2.0000000000000142",
             "scope": "100",
             "floor": "20",
@@ -106,7 +106,7 @@
             "mode": "IIR",
             "num-bands": "10",
             "input-gain": "0",
-            "output-gain": "-0.54000000000000004",
+            "output-gain": "0",
             "split-channels": "false",
             "left": {
                 "band0": {
@@ -125,7 +125,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "5.7000000000000002",
+                    "gain": "2.1000000000000001",
                     "frequency": "59.763340205038524",
                     "q": "4.3600000000000003"
                 },
@@ -175,7 +175,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "-10.5",
+                    "gain": "-8.8000000000000007",
                     "frequency": "1889.8827562743609",
                     "q": "4.3600000000000003"
                 },
@@ -185,7 +185,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "-15.6",
+                    "gain": "-12.699999999999999",
                     "frequency": "3770.8118433037489",
                     "q": "4.3600000000000003"
                 },
@@ -205,7 +205,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "0.90000000000000002",
+                    "gain": "10.5",
                     "frequency": "15011.872336272731",
                     "q": "4.3600000000000003"
                 }
@@ -227,7 +227,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "5.7000000000000002",
+                    "gain": "2.1000000000000001",
                     "frequency": "59.763340205038524",
                     "q": "4.3600000000000003"
                 },
@@ -277,7 +277,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "-10.5",
+                    "gain": "-8.8000000000000007",
                     "frequency": "1889.8827562743609",
                     "q": "4.3600000000000003"
                 },
@@ -287,7 +287,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "-15.6",
+                    "gain": "-12.699999999999999",
                     "frequency": "3770.8118433037489",
                     "q": "4.3600000000000003"
                 },
@@ -307,7 +307,7 @@
                     "slope": "x1",
                     "solo": "false",
                     "mute": "false",
-                    "gain": "0.90000000000000002",
+                    "gain": "10.5",
                     "frequency": "15011.872336272731",
                     "q": "4.3600000000000003"
                 }
@@ -347,8 +347,8 @@
             "makeup": "0"
         },
         "limiter": {
-            "state": "true",
-            "input-gain": "-8",
+            "state": "false",
+            "input-gain": "0",
             "limit": "0",
             "lookahead": "5",
             "release": "50",
@@ -525,17 +525,17 @@
             "stereo-phase": "0"
         },
         "convolver": {
-            "state": "false",
-            "input-gain": "0",
-            "output-gain": "0",
-            "kernel-path": "",
+            "state": "true",
+            "input-gain": "-1",
+            "output-gain": "-1",
+            "kernel-path": "\/home\/wello6143\/.config\/PulseEffects\/irs\/HTC Beats Audio ((Z-Edition)).irs",
             "ir-width": "100"
         },
         "crystalizer": {
             "state": "true",
             "aggressive": "false",
-            "input-gain": "0",
-            "output-gain": "0",
+            "input-gain": "-2",
+            "output-gain": "-2",
             "band0": {
                 "intensity": "-4",
                 "mute": "false",
@@ -547,22 +547,22 @@
                 "bypass": "false"
             },
             "band2": {
-                "intensity": "-6",
+                "intensity": "-4",
                 "mute": "false",
                 "bypass": "false"
             },
             "band3": {
-                "intensity": "-3",
+                "intensity": "-8",
                 "mute": "false",
                 "bypass": "false"
             },
             "band4": {
-                "intensity": "-6",
+                "intensity": "-7",
                 "mute": "false",
                 "bypass": "false"
             },
             "band5": {
-                "intensity": "-7",
+                "intensity": "-8",
                 "mute": "false",
                 "bypass": "false"
             },
@@ -603,12 +603,12 @@
             }
         },
         "autogain": {
-            "state": "false",
+            "state": "true",
             "detect-silence": "true",
             "use-geometric-mean": "true",
             "input-gain": "0",
             "output-gain": "0",
-            "target": "-23",
+            "target": "-14",
             "weight-m": "1",
             "weight-s": "1",
             "weight-i": "1"
